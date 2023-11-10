@@ -18,3 +18,6 @@ Solution: The program uses recursive matching to handle cases where substrings a
 
 Solution: The logic involves searching for the first occurrence in the array where it is not sorted. It then tries to perform a swap to make the array sorted. If a swap doesn't work, it attempts to find a subarray to reverse. The program prints whether the array can be almost sorted and the details of the operation if successful. Overall, the program uses straightforward array manipulation and checks to determine the feasibility of making the array almost sorted.
 
+###  Problem 5: https://www.hackerrank.com/challenges/richie-rich/problem
+
+Solution: The algorithm efficiently constructs the highest-value palindrome by considering the available change opportunities and maximizing the overall value of the string.
