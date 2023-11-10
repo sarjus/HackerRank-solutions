@@ -14,7 +14,7 @@ Solution: The program uses various helper functions to modularize the logic and 
 
 Solution: The program uses recursive matching to handle cases where substrings are divided into two halves, and it checks for matches in all possible substrings of the original string. If matches are found, it prints the indices; otherwise, it outputs "No Match!". The logic is implemented using clear and modular functions, making the code readable and maintainable.
 
-###  Problem 3: https://www.hackerrank.com/challenges/almost-sorted
+###  Problem 4: https://www.hackerrank.com/challenges/almost-sorted
 
 Solution: The logic involves searching for the first occurrence in the array where it is not sorted. It then tries to perform a swap to make the array sorted. If a swap doesn't work, it attempts to find a subarray to reverse. The program prints whether the array can be almost sorted and the details of the operation if successful. Overall, the program uses straightforward array manipulation and checks to determine the feasibility of making the array almost sorted.
 
