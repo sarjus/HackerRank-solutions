@@ -9,3 +9,8 @@ Solution: The program aims to find the minimum cost of forming a string by appen
 ##  Problem 2: https://www.hackerrank.com/challenges/build-a-string
 
 Solution: The program uses various helper functions to modularize the logic and improve readability. It employs a compression step to reduce repeated characters and optimizes palindrome length calculations for circular strings. The core idea is to find circular palindromes for each rotation of the input string and output the lengths of the maximum palindromes found in each rotation.
+
+##  Problem 3: https://www.hackerrank.com/challenges/build-a-string
+
+Solution: The program uses various helper functions to modularize the logic and improve readability. It employs a compression step to reduce repeated characters and optimizes palindrome length calculations for circular strings. The core idea is to find circular palindromes for each rotation of the input string and output the lengths of the maximum palindromes found in each rotation.
+
